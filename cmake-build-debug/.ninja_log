@@ -1,0 +1,9 @@
+# ninja log v5
+5	405	1756631366943726689	CMakeFiles/hufman.dir/reduce.cpp.o	bea39e1b6bb3b3a9
+0	823	1756631367360393340	CMakeFiles/hufman.dir/main.cpp.o	23d9e8f8651b88e
+5	431	1756631366970393355	CMakeFiles/hufman.dir/rleReduce.cpp.o	c3e036f4b0a436c3
+823	884	1756631367423726669	hufman	66e9e54bbf98d17f
+2	32	1756645252789789952	CMakeFiles/hufman.dir/TreeNode.cpp.o	691c04b6f177c4ba
+1	433	1756645253189789937	CMakeFiles/hufman.dir/rleReduce.cpp.o	c3e036f4b0a436c3
+1	856	1756645253613123255	CMakeFiles/hufman.dir/main.cpp.o	23d9e8f8651b88e
+856	926	1756645253683123251	hufman	a4eec11d837d29f0
